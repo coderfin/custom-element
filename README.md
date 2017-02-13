@@ -11,9 +11,9 @@ The latest version of Chrome.
 
 ## Demo
 
-[Class Based Custom Element](/custom-element/class)<br>
-[Reflect (Class-less) Based Custom Element](/custom-element/reflect)<br>
-[Register Element (Depricated)](/custom-element/register-element)
+[Class Based Custom Element](https://coderfin.github.io/custom-element/class)<br>
+[Reflect (Class-less) Based Custom Element](https://coderfin.github.io/custom-element/reflect)<br>
+[Register Element (Depricated)](https://coderfin.github.io/custom-element/register-element)
 
 ## Notes
 
