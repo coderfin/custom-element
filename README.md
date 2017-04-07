@@ -21,7 +21,7 @@ Class based custom elements are currently the suggested way to create new custom
 
 ## License
 
-Copyright (c) 2016 [coderfin](https://github.com/coderfin). All rights reserved.
+Created by [coderfin](https://github.com/coderfin).
 This code is licensed under the MIT style license found as part of this project.
 
 ## Changelog
